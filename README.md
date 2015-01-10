@@ -4,7 +4,7 @@
 
 - Name: Hugh Willson
 - Email: hugh@octonary.com
-- Website: [https://octonary.com](https://octonary.com)
+- Website: [http://octonary.com](http://octonary.com)
 - GitHub: [https://github.com/hwillson](https://github.com/hwillson)
 
 ## Brief
