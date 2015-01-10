@@ -2,10 +2,10 @@
 
 ## Contact
 
-Hugh Willson
-hugh@octonary.com
-[https://octonary.com](https://octonary.com)
-[https://github.com/hwillson](https://github.com/hwillson)
+- Name: Hugh Willson
+- Email: hugh@octonary.com
+- Website: [https://octonary.com](https://octonary.com)
+- GitHub: [https://github.com/hwillson](https://github.com/hwillson)
 
 ## Brief
 
@@ -105,4 +105,3 @@ Here is a sampling of the clients I've worked with.
 Bachelor of Arts in Computer Mathematics from Carleton University (Ottawa,
 Ontario, Canada). I’m also a Sun Certified Java Programmer, Sun Certified Web
 Component Developer, and a Zend Certified Engineer.
-
