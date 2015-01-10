@@ -99,6 +99,7 @@ Here is a sampling of the clients I've worked with.
 - Champix
 - Lee Valley
 - Maple Leaf
+- Contegra Systems
 
 ## Education
 
