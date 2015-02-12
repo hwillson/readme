@@ -8,97 +8,82 @@
 
 ## Brief
 
-- I write lots of code
-- I've been writing lots of code for 19 years
-- I'm currently focused on web and mobile
+- I write a lot of code.
+- I've been writing a lot of code for 19 years.
+- I'm currently focused on web and mobile.
 
 ## Not Brief
 
-Aloha! I’m Hugh, a technology enthusiast who has spent way too much time over
-the past many years baking in the warmth of a computer monitor. I’ve been
-working with computers since well before they became a household staple, and
-continue to love pushing them in new directions through code. I’ve spent the
-past 19 years working as a professional software developer, touching on just
-about every kind of software development project imaginable. I've worked with
-mom and pops, fortune 500′s, government, and everyone in-between, on projects
-ranging in size from simple promo websites to full fledged financial litigation
-systems. Looking for someone to help out on your next project? I’d love to hear
-about it!
+Aloha! I’m Hugh, a technology enthusiast who has spent way too much time over the past many years baking in the warmth of a computer monitor. I’ve been working with computers since well before they became a household staple, and continue to love pushing them in new directions through code. I’ve spent the past 19 years working as a professional software developer, touching on just about every kind of software development project imaginable. I've worked with mom and pops, fortune 500′s, government, and everyone in-between, on projects
+ranging in size from simple promo websites to full fledged financial litigation systems. Looking for someone to help out on your next project? I’d love to hear about it!
 
 ## Experience
 
-I’ve worked with quite a few different technologies over the years. I’ve
-highlighted a sampling below.
+I’ve worked with quite a few different technologies over the years. I’ve highlighted a sampling below.
 
-- Programming languages: JavaScript, PHP, Ruby, Objective-C, Swift, Java, C,
-  C++, C#, Smalltalk, Python, Perl, shell scripting
-- Frameworks: Backbone, Marionette, jQuery, Meteor, Ruby on Rails, Zend
-  Framework, Symfony, CakePHP, WooFramework, Java EE, Struts, Spring, .Net
-- Operating systems: Linux (Ubuntu, RedHat, SUSE), UNIX (AIX, Solaris, HP-UX),
-  Windows, Mac OS, iOS, Android
-- Web: HTML/XHTML/HTML5, XML, JSON, web services (SOAP, REST), CSS,
-  accessibility standards, many JS libraries
-- Software: WordPress, Joomla, Drupal, Squarespace, Shopify, Mangento, SAP
+- Programming languages: JavaScript, PHP, Ruby, Objective-C, Swift, Java, C, C++, C#, Smalltalk, Python, Perl, shell scripting
+- Frameworks: Backbone, Marionette, jQuery, Meteor, Ruby on Rails, Zend Framework, Symfony, CakePHP, WooFramework, Java EE, Struts, Spring, .Net
+- Operating systems: Linux (Ubuntu, RedHat, SUSE), UNIX (AIX, Solaris, HP-UX), Windows, Mac OS, iOS, Android
+- Web: HTML/XHTML/HTML5, XML, JSON, web services (SOAP, REST), CSS, accessibility standards, many JS libraries
+- Software: WordPress, Joomla, Drupal, Squarespace, Shopify, Mangento, SAP, Autonomy IDOL, Exalead, Apache Lucene/Solr
 - Databases: Oracle, MySQL, Postgres, MongoDB, SQL Server, Sybase, HSQLDB, Derby
-- Tools: Just about every IDE and text editor out there, many different build
-  libraries/frameworks/tools, testing frameworks, continuous build/integration
-servers, etc.
-- Development processes: Extreme programming, Scrum, custom agile processes,
-  Rational Unified Process (RUP), death march (haha ... but seriously)
+- Tools: Just about every IDE and text editor out there, many different build libraries/frameworks/tools, testing frameworks, continuous build/integration servers, etc.
+- Development processes: Extreme programming, Scrum, custom agile processes, Rational Unified Process (RUP), death march (haha ... but seriously)
 
 ## Past Clients
 
 Here is a sampling of the clients I've worked with.
 
-- Toyota USA
-- Lexus USA
-- Alcatel Lucent
-- International Monetary Fund
-- The Foundation Center
-- Employment and Social Development Canada
-- Canadian Heritage
-- Slipstream Sports
-- Life Insurance Insights
-- Select Quote
-- Fifty and Five
-- Visage Mobile
-- Wireless Werx
-- Sula Beauty
-- Canadian Institute for Health Research
-- Health Canada
-- Industry Canada
-- Public Works and Government Services Canada
-- Advertising Research Foundation
-- Public Health Agency of Canada
-- South County Physical Therapy and Pilates
-- Norconex
-- Foundation Directory Workspace
-- The Feed
-- Federal Security Agency Corporation
-- Pinewood Livery
-- 7th Groove
-- La Fuga
-- Milyoni
-- Natural Edge Technology
-- SpiderTech
-- Canadian Revenue Agency
-- Canadian Radio-Television & Telecommunications Commission
-- Gravelnuts
-- Echelon
-- ACEF
-- Sandy Hill Community Health Centre
-- Workable Immigration Solutions
-- The Rabid Independent
-- Bruneau Group
-- Hyundai
-- Kia
-- Volkswagen
-- Loblaws
-- KRUPP
-- Champix
-- Lee Valley
-- Maple Leaf
-- Contegra Systems
+Client | Position | Start Date | End Date
+--- | --- | --- | ---
+The Foundation Center	| Developer (Consultant) | 	2008-10-01 | present
+Norconex | Developer (Consultant) |	2007-09-01 |	present
+7th Groove | Developer (Consultant) | 2005-01-01 |	present
+Bruneau Group | Developer (Consultant) | 2005-01-01 |	present
+Contegra Systems | Developer (Consultant) | 2008-10-01 | present
+Hyundai	| Developer (Consultant) | 2014-10-01 | 2014-12-01
+Kia	| Developer (Consultant) | 2014-10-01 | 2014-12-01
+Pinewood Livery | Developer (Consultant) | 2012-05-01 | 2014-04-01
+Federal Security Agency Corporation | Developer (Consultant) | 2012-04-01 | 2014-02-01
+The Feed | Developer (Consultant) | 2013-04-01 | 2014-01-01
+La Fuga | Developer (Consultant) | 2012-06-01 | 2014-01-01
+SpiderTech | Developer (Consultant) | 2012-07-01 | 2013-12-01
+Lee Valley | Developer (Consultant) | 2013-03-01 | 2013-11-01
+Fifty and Five | Developer (Consultant) | 2012-01-01 | 2013-10-01
+Visage Mobile	| Developer (Consultant) | 2006-01-01 | 2013-10-01
+Milyoni | Developer (Consultant) | 2012-07-01 | 2013-09-01
+Gravelnuts | Developer (Consultant) | 2012-04-01 | 2013-08-01
+Echelon Partners | Developer (Consultant) | 2013-03-01 | 2013-08-01
+Champix | Developer (Consultant) | 2013-07-01 | 2013-08-01
+Select Quote | Developer (Consultant) | 2012-01-01 | 2013-07-01
+Sandy Hill Community Health Centre | Developer (Consultant) | 2013-02-01 | 2013-07-01
+ACEF | Developer (Consultant) | 2012-06-01 | 2013-05-01
+Toyota USA | Developer (Consultant) | 2007-09-01 | 2013-04-01
+Alcatel Lucent | Developer (Consultant) | 2009-02-01 | 2013-02-01
+Advertising Research Foundation | Developer (Consultant) | 2011-05-01 | 2013-02-01
+Workable Immigration Solutions | Developer (Consultant) | 2013-01-01 | 2013-02-01
+Canadian Heritage | Developer (Consultant) | 2009-06-01 | 2012-12-01
+Natural Edge Technology | Developer (Consultant) | 2012-05-01 | 2012-12-01
+Life Insurance Insights | Developer (Consultant) | 2012-02-01 | 2012-11-01
+Volkswagen | Developer (Consultant) | 2012-06-01 | 2012-11-01
+Employment and Social Development Canada | Developer (Consultant) | 2011-12-01 | 2012-10-01
+Maple Leaf | Developer (Consultant) | 2009-01-01 | 2012-03-01
+Sula Beauty | Developer (Consultant) | 2010-04-01 | 2012-02-01
+Slipstream Sports | Developer (Consultant) | 2007-12-01 | 2011-07-01
+Public Works and Government Services Canada| Developer (Consultant) | 2007-09-01 | 2011-07-01
+Canadian Revenue Agency | Developer (Consultant) | 2010-04-01 | 2010-05-01
+Health Canada | Developer (Consultant) | 2008-09-01 | 2010-04-01
+South County Physical Therapy and Pilates | Developer (Consultant) | 2009-11-01 | 2010-03-01
+Wireless Werx	| Developer (Consultant) | 2009-09-01 | 2010-02-01
+Canadian Radio-Television & Telecommunications Commission	| Developer (Consultant) | 2009-03-01 | 2009-09-01
+Canadian Institute for Health Research | Developer (Consultant) | 2007-10-01 | 2009-04-01
+International Monetary Fund	| Developer (Consultant) | 2008-01-01	| 2008-11-01
+Air France | Developer (Consultant)	| 2005-12-01 | 2008-10-01
+Lexus USA	| Developer (Consultant) | 2008-06-01 | 2008-08-01
+Payday Loans | Developer (Consultant)	| 2006-09-01 | 2008-04-01
+Public Health Agency of Canada | Developer (Consultant)	| 2007-11-01 | 2008-02-01
+Loblaws	| Developer (Consultant) | 2006-03-01 | 2007-12-01
+Industry Canada | Developer / Technical Lead (Consultant) | 1996-10-01 | 2007-09-01
 
 ## Education
 
