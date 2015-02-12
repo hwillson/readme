@@ -28,7 +28,7 @@ I’ve worked with quite a few different technologies over the years. I’ve hig
 - Software: WordPress, Joomla, Drupal, Squarespace, Shopify, Mangento, SAP, Autonomy IDOL, Exalead, Apache Lucene/Solr
 - Databases: Oracle, MySQL, Postgres, MongoDB, SQL Server, Sybase, HSQLDB, Derby
 - Tools: Just about every IDE and text editor out there, many different build libraries/frameworks/tools, testing frameworks, continuous build/integration servers, etc.
-- Development processes: Extreme programming, Scrum, custom agile processes, Rational Unified Process (RUP), death march (haha ... but seriously)
+- Development processes: Extreme programming, Scrum, custom agile processes, Rational Unified Process (RUP), Death March (haha ... but seriously)
 
 ## Past Clients
 
