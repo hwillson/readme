@@ -36,7 +36,7 @@ Here is a sampling of the clients I've worked with.
 
 Client | Position | Start Date | End Date
 --- | --- | --- | ---
-The Foundation Center	| Developer (Consultant) | 	2008-10-01 | present
+The Foundation <br>Center	| Developer (Consultant) | 	2008-10-01 | present
 Norconex | Developer (Consultant) |	2007-09-01 |	present
 7th Groove | Developer (Consultant) | 2005-01-01 |	present
 Bruneau Group | Developer (Consultant) | 2005-01-01 |	present
@@ -44,7 +44,7 @@ Contegra Systems | Developer (Consultant) | 2008-10-01 | present
 Hyundai	| Developer (Consultant) | 2014-10-01 | 2014-12-01
 Kia	| Developer (Consultant) | 2014-10-01 | 2014-12-01
 Pinewood Livery | Developer (Consultant) | 2012-05-01 | 2014-04-01
-Federal Security Agency Corporation | Developer (Consultant) | 2012-04-01 | 2014-02-01
+Federal Security <br>Agency Corporation | Developer (Consultant) | 2012-04-01 | 2014-02-01
 The Feed | Developer (Consultant) | 2013-04-01 | 2014-01-01
 La Fuga | Developer (Consultant) | 2012-06-01 | 2014-01-01
 SpiderTech | Developer (Consultant) | 2012-07-01 | 2013-12-01
@@ -56,34 +56,34 @@ Gravelnuts | Developer (Consultant) | 2012-04-01 | 2013-08-01
 Echelon Partners | Developer (Consultant) | 2013-03-01 | 2013-08-01
 Champix | Developer (Consultant) | 2013-07-01 | 2013-08-01
 Select Quote | Developer (Consultant) | 2012-01-01 | 2013-07-01
-Sandy Hill Community Health Centre | Developer (Consultant) | 2013-02-01 | 2013-07-01
+Sandy Hill <br>Community Health <br>Centre | Developer (Consultant) | 2013-02-01 | 2013-07-01
 ACEF | Developer (Consultant) | 2012-06-01 | 2013-05-01
 Toyota USA | Developer (Consultant) | 2007-09-01 | 2013-04-01
 Alcatel Lucent | Developer (Consultant) | 2009-02-01 | 2013-02-01
-Advertising Research Foundation | Developer (Consultant) | 2011-05-01 | 2013-02-01
-Workable Immigration Solutions | Developer (Consultant) | 2013-01-01 | 2013-02-01
+Advertising Research <br>Foundation | Developer (Consultant) | 2011-05-01 | 2013-02-01
+Workable Immigration <br>Solutions | Developer (Consultant) | 2013-01-01 | 2013-02-01
 Canadian Heritage | Developer (Consultant) | 2009-06-01 | 2012-12-01
-Natural Edge Technology | Developer (Consultant) | 2012-05-01 | 2012-12-01
+Natural Edge <br>Technology | Developer (Consultant) | 2012-05-01 | 2012-12-01
 Life Insurance Insights | Developer (Consultant) | 2012-02-01 | 2012-11-01
 Volkswagen | Developer (Consultant) | 2012-06-01 | 2012-11-01
-Employment and Social Development Canada | Developer (Consultant) | 2011-12-01 | 2012-10-01
+Employment and <br>Social Development <br>Canada | Developer (Consultant) | 2011-12-01 | 2012-10-01
 Maple Leaf | Developer (Consultant) | 2009-01-01 | 2012-03-01
 Sula Beauty | Developer (Consultant) | 2010-04-01 | 2012-02-01
 Slipstream Sports | Developer (Consultant) | 2007-12-01 | 2011-07-01
-Public Works and Government Services Canada| Developer (Consultant) | 2007-09-01 | 2011-07-01
-Canadian Revenue Agency | Developer (Consultant) | 2010-04-01 | 2010-05-01
+Public Works and <br>Government Services <br>Canada| Developer (Consultant) | 2007-09-01 | 2011-07-01
+Canadian Revenue <br>Agency | Developer (Consultant) | 2010-04-01 | 2010-05-01
 Health Canada | Developer (Consultant) | 2008-09-01 | 2010-04-01
-South County Physical Therapy and Pilates | Developer (Consultant) | 2009-11-01 | 2010-03-01
+South County Physical <br>Therapy and Pilates | Developer (Consultant) | 2009-11-01 | 2010-03-01
 Wireless Werx	| Developer (Consultant) | 2009-09-01 | 2010-02-01
-Canadian Radio-Television & Telecommunications Commission	| Developer (Consultant) | 2009-03-01 | 2009-09-01
-Canadian Institute for Health Research | Developer (Consultant) | 2007-10-01 | 2009-04-01
-International Monetary Fund	| Developer (Consultant) | 2008-01-01	| 2008-11-01
+Canadian <br>Radio-Television & <br>Telecommunications Commission	| Developer (Consultant) | 2009-03-01 | 2009-09-01
+Canadian Institute <br>for Health Research | Developer (Consultant) | 2007-10-01 | 2009-04-01
+International Monetary <br>Fund	| Developer (Consultant) | 2008-01-01	| 2008-11-01
 Air France | Developer (Consultant)	| 2005-12-01 | 2008-10-01
 Lexus USA	| Developer (Consultant) | 2008-06-01 | 2008-08-01
 Payday Loans | Developer (Consultant)	| 2006-09-01 | 2008-04-01
-Public Health Agency of Canada | Developer (Consultant)	| 2007-11-01 | 2008-02-01
+Public Health <br>Agency of Canada | Developer (Consultant)	| 2007-11-01 | 2008-02-01
 Loblaws	| Developer (Consultant) | 2006-03-01 | 2007-12-01
-Industry Canada | Developer / Technical Lead (Consultant) | 1996-10-01 | 2007-09-01
+Industry Canada | Developer / <br>Technical Lead<br> (Consultant) | 1996-10-01 | 2007-09-01
 
 ## Education
 
