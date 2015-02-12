@@ -36,7 +36,7 @@ Here is a sampling of the clients I've worked with.
 
 Client | Position | Start Date | End Date
 --- | --- | --- | ---
-The Foundation <br>Center	| Developer (Consultant) | 	2008-10-01 | present
+The Foundation Center	| Developer (Consultant) | 	2008-10-01 | present
 Norconex | Developer (Consultant) |	2007-09-01 |	present
 7th Groove | Developer (Consultant) | 2005-01-01 |	present
 Bruneau Group | Developer (Consultant) | 2005-01-01 |	present
@@ -56,7 +56,7 @@ Gravelnuts | Developer (Consultant) | 2012-04-01 | 2013-08-01
 Echelon Partners | Developer (Consultant) | 2013-03-01 | 2013-08-01
 Champix | Developer (Consultant) | 2013-07-01 | 2013-08-01
 Select Quote | Developer (Consultant) | 2012-01-01 | 2013-07-01
-Sandy Hill <br>Community Health <br>Centre | Developer (Consultant) | 2013-02-01 | 2013-07-01
+Sandy Hill Community <br>Health Centre | Developer (Consultant) | 2013-02-01 | 2013-07-01
 ACEF | Developer (Consultant) | 2012-06-01 | 2013-05-01
 Toyota USA | Developer (Consultant) | 2007-09-01 | 2013-04-01
 Alcatel Lucent | Developer (Consultant) | 2009-02-01 | 2013-02-01
