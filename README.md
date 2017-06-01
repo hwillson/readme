@@ -36,7 +36,6 @@ Here is a sampling of the clients I've worked with.
 
 Client | Position | Start Date | End Date
 --- | --- | --- | ---
-
 Bruneau Group | Developer (Consultant) | 2005-01-01 |  present
 The Feed | Developer (Consultant) | 2013-04-01 | present
 Wyldsson | Developer (Consultant) | 2015-09-01 | present
