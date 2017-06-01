@@ -9,7 +9,7 @@
 ## Brief
 
 - I write a lot of code.
-- I've been writing a lot of code for 20 years.
+- I've been writing a lot of code (professionally) for 20 years.
 - I'm currently focused on web and mobile.
 
 ## Not Brief
@@ -36,14 +36,15 @@ Here is a sampling of the clients I've worked with.
 
 Client | Position | Start Date | End Date
 --- | --- | --- | ---
-7th Groove | Developer (Consultant) | 2005-01-01 |  present
+
 Bruneau Group | Developer (Consultant) | 2005-01-01 |  present
 The Feed | Developer (Consultant) | 2013-04-01 | present
 Wyldsson | Developer (Consultant) | 2015-09-01 | present
-Sandy Hill Community <br>Health Centre | Developer (Consultant) | 2013-02-01 | 2016-02-01
-Advertising Research <br>Foundation | Developer (Consultant) | 2011-05-01 | 2016-02-01
-The Foundation Center  | Developer (Consultant) |   2008-10-01 | 2016-02-01
-Contegra Systems | Developer (Consultant) | 2008-10-01 | 2016-02-01
+Sandy Hill Community <br>Health Centre | Developer (Consultant) | 2013-02-01 | present
+Advertising Research <br>Foundation | Developer (Consultant) | 2011-05-01 | present
+The Foundation Center  | Developer (Consultant) |   2008-10-01 | present
+Contegra Systems | Developer (Consultant) | 2008-10-01 | present
+7th Groove | Developer (Consultant) | 2005-01-01 |  2017-01-01
 Norconex | Developer (Consultant) |  2007-09-01 |  2016-02-01
 Fat Chance Bicycles | Developer (Consultant) | 2015-02-01 | 2015-04-01
 American Express | Developer (Consultant) | 2015-06-01 | 2016-02-01
