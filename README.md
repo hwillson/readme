@@ -9,12 +9,12 @@
 ## Brief
 
 - I write a lot of code.
-- I've been writing a lot of code (professionally) for 20 years.
+- I've been writing a lot of code (professionally) for 20+ years.
 - I'm currently focused on web and mobile.
 
 ## Not Brief
 
-Aloha! I’m Hugh, a technology enthusiast who has spent way too much time over the past many years baking in the warmth of a computer monitor. I’ve been working with computers since well before they became a household staple, and continue to love pushing them in new directions through code. I’ve spent the past 20 years working as a professional software developer, touching on just about every kind of software development project imaginable. I've worked with mom and pops, fortune 500′s, government, and everyone in-between, on projects
+Aloha! I’m Hugh, a technology enthusiast who has spent way too much time over the past many years baking in the warmth of a computer monitor. I’ve been working with computers since well before they became a household staple, and continue to love pushing them in new directions through code. I’ve spent the past 20+ years working as a professional software developer, touching on just about every kind of software development project imaginable. I've worked with mom and pops, fortune 500′s, government, and everyone in-between, on projects
 ranging in size from simple promo websites to full fledged financial litigation systems. Looking for someone to help out on your next project? I’d love to hear about it!
 
 ## Experience
@@ -43,6 +43,8 @@ Sandy Hill Community <br>Health Centre | Developer (Consultant) | 2013-02-01 | p
 Advertising Research <br>Foundation | Developer (Consultant) | 2011-05-01 | present
 The Foundation Center  | Developer (Consultant) |   2008-10-01 | present
 Contegra Systems | Developer (Consultant) | 2008-10-01 | present
+Less Than 2 Degrees | Developer (Consultant) | 2017-10-01 |  present
+Centretown Community Health Centre | Developer (Consultant) | 2017-10-01 |  2018-02-20
 7th Groove | Developer (Consultant) | 2005-01-01 |  2017-01-01
 Norconex | Developer (Consultant) |  2007-09-01 |  2016-02-01
 Fat Chance Bicycles | Developer (Consultant) | 2015-02-01 | 2015-04-01
