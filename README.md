@@ -22,7 +22,7 @@ ranging in size from simple promo websites to full fledged financial litigation 
 I’ve worked with quite a few different technologies over the years. I’ve highlighted a sampling below.
 
 - Programming languages: JavaScript, PHP, Ruby, Objective-C, Swift, Java, C, C++, C#, Smalltalk, Python, Perl, shell scripting
-- Frameworks/Platforms: Meteor, Node.js, Backbone, Marionette, jQuery, Ruby on Rails, Zend Framework, Symfony, CakePHP, WooFramework, Java EE, Struts, Spring, .Net
+- Frameworks/Platforms: Meteor, React, Node.js, Backbone, Marionette, jQuery, Ruby on Rails, Zend Framework, Symfony, CakePHP, WooFramework, Java EE, Struts, Spring, .Net
 - Operating systems: Linux (Ubuntu, RedHat, SUSE), UNIX (AIX, Solaris, HP-UX), Windows, Mac OS, iOS, Android
 - Web: HTML/XHTML/HTML5, XML, JSON, web services (SOAP, REST), CSS, accessibility standards, many JS libraries
 - Software: WordPress, Joomla, Drupal, Squarespace, Shopify, Magento, SAP, Autonomy IDOL, Exalead, Apache Lucene/Solr
