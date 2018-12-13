@@ -9,7 +9,7 @@
 ## Brief
 
 - I write a lot of code.
-- I've been writing a lot of code (professionally) for 20+ years.
+- I've been writing a lot of code (professionally) for the past 22 years.
 - I'm currently focused on web and mobile.
 
 ## Not Brief
@@ -22,7 +22,7 @@ ranging in size from simple promo websites to full fledged financial litigation 
 I’ve worked with quite a few different technologies over the years. I’ve highlighted a sampling below.
 
 - Programming languages: JavaScript, PHP, Ruby, Objective-C, Swift, Java, C, C++, C#, Smalltalk, Python, Perl, shell scripting
-- Frameworks/Platforms: Meteor, React, Node.js, Backbone, Marionette, jQuery, Ruby on Rails, Zend Framework, Symfony, CakePHP, WooFramework, Java EE, Struts, Spring, .Net
+- Frameworks/Platforms: Apollo, GraphQL, Meteor, React, Node.js, Backbone, Marionette, jQuery, Ruby on Rails, Zend Framework, Symfony, CakePHP, WooFramework, Java EE, Struts, Spring, .Net
 - Operating systems: Linux (Ubuntu, RedHat, SUSE), UNIX (AIX, Solaris, HP-UX), Windows, Mac OS, iOS, Android
 - Web: HTML/XHTML/HTML5, XML, JSON, web services (SOAP, REST), CSS, accessibility standards, many JS libraries
 - Software: WordPress, Joomla, Drupal, Squarespace, Shopify, Magento, SAP, Autonomy IDOL, Exalead, Apache Lucene/Solr
@@ -36,14 +36,15 @@ Here is a sampling of the clients I've worked with.
 
 Client | Position | Start Date | End Date
 --- | --- | --- | ---
-Bruneau Group | Developer (Consultant) | 2005-01-01 |  present
-The Feed | Developer (Consultant) | 2013-04-01 | present
-Wyldsson | Developer (Consultant) | 2015-09-01 | present
-Sandy Hill Community <br>Health Centre | Developer (Consultant) | 2013-02-01 | present
-Advertising Research <br>Foundation | Developer (Consultant) | 2011-05-01 | present
-The Foundation Center  | Developer (Consultant) |   2008-10-01 | present
-Contegra Systems | Developer (Consultant) | 2008-10-01 | present
-Less Than 2 Degrees | Developer (Consultant) | 2017-10-01 |  present
+MDG / Apollo | Core Developer | 2018-06-01 | current 
+Bruneau Group | Developer (Consultant) | 2005-01-01 | 2018-06-01
+The Feed | Developer (Consultant) | 2013-04-01 | 2018-06-01
+Wyldsson | Developer (Consultant) | 2015-09-01 | 2018-06-01
+Sandy Hill Community <br>Health Centre | Developer (Consultant) | 2013-02-01 | 2018-06-01
+Advertising Research <br>Foundation | Developer (Consultant) | 2011-05-01 | 2018-06-01
+The Foundation Center  | Developer (Consultant) |   2008-10-01 | 2018-06-01
+Contegra Systems | Developer (Consultant) | 2008-10-01 | 2018-06-01
+Less Than 2 Degrees | Developer (Consultant) | 2017-10-01 |  2018-06-01
 Centretown Community Health Centre | Developer (Consultant) | 2017-10-01 |  2018-02-20
 7th Groove | Developer (Consultant) | 2005-01-01 |  2017-01-01
 Norconex | Developer (Consultant) |  2007-09-01 |  2016-02-01
